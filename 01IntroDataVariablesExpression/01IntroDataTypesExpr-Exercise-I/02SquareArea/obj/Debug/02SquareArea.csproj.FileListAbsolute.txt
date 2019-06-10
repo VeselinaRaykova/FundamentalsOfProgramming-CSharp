@@ -1,0 +1,5 @@
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\02SquareArea\bin\Debug\02SquareArea.exe
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\02SquareArea\bin\Debug\02SquareArea.pdb
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\02SquareArea\obj\Debug\02SquareArea.csproj.CoreCompileInputs.cache
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\02SquareArea\obj\Debug\02SquareArea.exe
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\02SquareArea\obj\Debug\02SquareArea.pdb

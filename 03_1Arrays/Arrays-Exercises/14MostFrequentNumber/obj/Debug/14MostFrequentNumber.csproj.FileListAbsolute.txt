@@ -1,0 +1,5 @@
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\14MostFrequentNumber\bin\Debug\14MostFrequentNumber.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\14MostFrequentNumber\bin\Debug\14MostFrequentNumber.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\14MostFrequentNumber\bin\Debug\14MostFrequentNumber.pdb
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\14MostFrequentNumber\obj\Debug\14MostFrequentNumber.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\14MostFrequentNumber\obj\Debug\14MostFrequentNumber.pdb

@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\13MaxSequenceOfIncreasingElements\bin\Debug\13MaxSequenceOfIncreasingElements.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\13MaxSequenceOfIncreasingElements\bin\Debug\13MaxSequenceOfIncreasingElements.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\13MaxSequenceOfIncreasingElements\bin\Debug\13MaxSequenceOfIncreasingElements.pdb
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\13MaxSequenceOfIncreasingElements\obj\Debug\13MaxSequenceOfIncreasingElements.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\13MaxSequenceOfIncreasingElements\obj\Debug\13MaxSequenceOfIncreasingElements.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\13MaxSequenceOfIncreasingElements\obj\Debug\13MaxSequenceOfIncreasingElements.pdb

@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\09RotateAndSum\bin\Debug\09RotateAndSum.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\09RotateAndSum\bin\Debug\09RotateAndSum.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\09RotateAndSum\bin\Debug\09RotateAndSum.pdb
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\09RotateAndSum\obj\Debug\09RotateAndSum.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\09RotateAndSum\obj\Debug\09RotateAndSum.pdb
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\09RotateAndSum\obj\Debug\09RotateAndSum.csprojResolveAssemblyReference.cache

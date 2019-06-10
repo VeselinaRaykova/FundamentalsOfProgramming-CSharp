@@ -1,0 +1,5 @@
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\10FoldAndSum_v2\bin\Debug\10FoldAndSum_v2.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\10FoldAndSum_v2\bin\Debug\10FoldAndSum_v2.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\10FoldAndSum_v2\bin\Debug\10FoldAndSum_v2.pdb
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\10FoldAndSum_v2\obj\Debug\10FoldAndSum_v2.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\10FoldAndSum_v2\obj\Debug\10FoldAndSum_v2.pdb

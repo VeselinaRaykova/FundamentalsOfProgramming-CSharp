@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\06ExtractMiddle1_2or3Elements\bin\Debug\06ExtractMiddle1_2or3Elements.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\06ExtractMiddle1_2or3Elements\obj\Debug\06ExtractMiddle1_2or3Elements.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\06ExtractMiddle1_2or3Elements\bin\Debug\06ExtractMiddle1_2or3Elements.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\06ExtractMiddle1_2or3Elements\bin\Debug\06ExtractMiddle1_2or3Elements.pdb
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\06ExtractMiddle1_2or3Elements\obj\Debug\06ExtractMiddle1_2or3Elements.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\06ExtractMiddle1_2or3Elements\obj\Debug\06ExtractMiddle1_2or3Elements.pdb

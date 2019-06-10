@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\23LeftAndRightSum\bin\Debug\23LeftAndRightSum.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\23LeftAndRightSum\bin\Debug\23LeftAndRightSum.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\23LeftAndRightSum\bin\Debug\23LeftAndRightSum.pdb
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\23LeftAndRightSum\obj\Debug\23LeftAndRightSum.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\23LeftAndRightSum\obj\Debug\23LeftAndRightSum.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\23LeftAndRightSum\obj\Debug\23LeftAndRightSum.pdb

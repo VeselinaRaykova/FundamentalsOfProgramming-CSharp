@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\04Number0-9toText\bin\Debug\04Number0-9toText.exe.config
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\04Number0-9toText\bin\Debug\04Number0-9toText.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\04Number0-9toText\bin\Debug\04Number0-9toText.pdb
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\04Number0-9toText\obj\Debug\04Number0-9toText.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\04Number0-9toText\obj\Debug\04Number0-9toText.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\04Number0-9toText\obj\Debug\04Number0-9toText.pdb

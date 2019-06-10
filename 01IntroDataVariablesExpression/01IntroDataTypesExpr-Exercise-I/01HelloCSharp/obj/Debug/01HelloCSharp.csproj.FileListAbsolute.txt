@@ -1,0 +1,5 @@
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\01HelloCSharp\bin\Debug\01HelloCSharp.exe
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\01HelloCSharp\bin\Debug\01HelloCSharp.pdb
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\01HelloCSharp\obj\Debug\01HelloCSharp.exe
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\01HelloCSharp\obj\Debug\01HelloCSharp.pdb
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\01HelloCSharp\obj\Debug\01HelloCSharp.csprojResolveAssemblyReference.cache

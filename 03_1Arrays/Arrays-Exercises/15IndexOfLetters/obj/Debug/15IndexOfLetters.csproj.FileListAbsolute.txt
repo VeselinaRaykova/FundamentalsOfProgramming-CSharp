@@ -1,0 +1,5 @@
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\15IndexOfLetters\bin\Debug\15IndexOfLetters.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\15IndexOfLetters\bin\Debug\15IndexOfLetters.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\15IndexOfLetters\bin\Debug\15IndexOfLetters.pdb
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\15IndexOfLetters\obj\Debug\15IndexOfLetters.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\15IndexOfLetters\obj\Debug\15IndexOfLetters.pdb

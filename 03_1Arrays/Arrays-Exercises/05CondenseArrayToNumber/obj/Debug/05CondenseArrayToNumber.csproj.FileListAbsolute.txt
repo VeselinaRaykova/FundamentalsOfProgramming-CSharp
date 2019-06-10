@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\05CondenseArrayToNumber\bin\Debug\05CondenseArrayToNumber.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\05CondenseArrayToNumber\bin\Debug\05CondenseArrayToNumber.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\05CondenseArrayToNumber\bin\Debug\05CondenseArrayToNumber.pdb
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\05CondenseArrayToNumber\obj\Debug\05CondenseArrayToNumber.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\05CondenseArrayToNumber\obj\Debug\05CondenseArrayToNumber.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\05CondenseArrayToNumber\obj\Debug\05CondenseArrayToNumber.pdb

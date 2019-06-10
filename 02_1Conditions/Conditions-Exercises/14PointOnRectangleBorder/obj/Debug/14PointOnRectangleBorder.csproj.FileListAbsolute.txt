@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\14PointOnRectangleBorder\bin\Debug\14PointOnRectangleBorder.exe.config
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\14PointOnRectangleBorder\bin\Debug\14PointOnRectangleBorder.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\14PointOnRectangleBorder\bin\Debug\14PointOnRectangleBorder.pdb
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\14PointOnRectangleBorder\obj\Debug\14PointOnRectangleBorder.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\14PointOnRectangleBorder\obj\Debug\14PointOnRectangleBorder.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\14PointOnRectangleBorder\obj\Debug\14PointOnRectangleBorder.pdb

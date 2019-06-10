@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\32EvenOrOddSum\bin\Debug\32EvenOrOddSum.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\32EvenOrOddSum\bin\Debug\32EvenOrOddSum.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\32EvenOrOddSum\bin\Debug\32EvenOrOddSum.pdb
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\32EvenOrOddSum\obj\Debug\32EvenOrOddSum.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\32EvenOrOddSum\obj\Debug\32EvenOrOddSum.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\32EvenOrOddSum\obj\Debug\32EvenOrOddSum.pdb

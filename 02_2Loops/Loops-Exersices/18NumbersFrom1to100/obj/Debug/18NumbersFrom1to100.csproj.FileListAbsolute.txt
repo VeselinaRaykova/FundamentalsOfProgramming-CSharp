@@ -1,0 +1,3 @@
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\18NumbersFrom1to100\bin\Debug\18Numbers From1to100.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\18NumbersFrom1to100\obj\Debug\18Numbers From1to100.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\18NumbersFrom1to100\obj\Debug\18Numbers From1to100.pdb

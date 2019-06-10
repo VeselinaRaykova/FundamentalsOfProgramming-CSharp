@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\28Factorial\bin\Debug\28Factorial.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\28Factorial\bin\Debug\28Factorial.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\28Factorial\bin\Debug\28Factorial.pdb
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\28Factorial\obj\Debug\28Factorial.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\28Factorial\obj\Debug\28Factorial.pdb
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\28Factorial\obj\Debug\28Factorial.csprojResolveAssemblyReference.cache

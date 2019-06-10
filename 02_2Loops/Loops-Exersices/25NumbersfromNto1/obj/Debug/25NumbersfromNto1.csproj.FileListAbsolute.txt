@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\25NumbersfromNto1\bin\Debug\25NumbersfromNto1.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\25NumbersfromNto1\bin\Debug\25NumbersfromNto1.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\25NumbersfromNto1\bin\Debug\25NumbersfromNto1.pdb
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\25NumbersfromNto1\obj\Debug\25NumbersfromNto1.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\25NumbersfromNto1\obj\Debug\25NumbersfromNto1.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\25NumbersfromNto1\obj\Debug\25NumbersfromNto1.pdb

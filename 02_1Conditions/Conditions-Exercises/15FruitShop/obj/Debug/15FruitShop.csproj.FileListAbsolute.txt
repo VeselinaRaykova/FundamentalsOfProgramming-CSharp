@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\15FruitShop\bin\Debug\15FruitShop.exe.config
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\15FruitShop\bin\Debug\15FruitShop.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\15FruitShop\bin\Debug\15FruitShop.pdb
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\15FruitShop\obj\Debug\15FruitShop.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\15FruitShop\obj\Debug\15FruitShop.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\15FruitShop\obj\Debug\15FruitShop.pdb

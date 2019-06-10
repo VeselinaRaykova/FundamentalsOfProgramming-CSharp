@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\33EqualPairs\bin\Debug\33EqualPairs.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\33EqualPairs\bin\Debug\33EqualPairs.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\33EqualPairs\bin\Debug\33EqualPairs.pdb
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\33EqualPairs\obj\Debug\33EqualPairs.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\33EqualPairs\obj\Debug\33EqualPairs.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\33EqualPairs\obj\Debug\33EqualPairs.pdb

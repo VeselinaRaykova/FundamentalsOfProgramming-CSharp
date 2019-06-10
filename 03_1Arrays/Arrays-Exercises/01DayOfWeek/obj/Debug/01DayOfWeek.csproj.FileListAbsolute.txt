@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\01DayOfWeek\bin\Debug\01DayOfWeek.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\01DayOfWeek\bin\Debug\01DayOfWeek.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\01DayOfWeek\bin\Debug\01DayOfWeek.pdb
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\01DayOfWeek\obj\Debug\01DayOfWeek.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\01DayOfWeek\obj\Debug\01DayOfWeek.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\01DayOfWeek\obj\Debug\01DayOfWeek.pdb

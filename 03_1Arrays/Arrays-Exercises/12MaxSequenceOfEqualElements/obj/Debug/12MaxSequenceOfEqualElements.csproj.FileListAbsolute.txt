@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\12MaxSequenceOfEqualElements\bin\Debug\12MaxSequenceOfEqualElements.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\12MaxSequenceOfEqualElements\bin\Debug\12MaxSequenceOfEqualElements.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\12MaxSequenceOfEqualElements\bin\Debug\12MaxSequenceOfEqualElements.pdb
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\12MaxSequenceOfEqualElements\obj\Debug\12MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\12MaxSequenceOfEqualElements\obj\Debug\12MaxSequenceOfEqualElements.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\12MaxSequenceOfEqualElements\obj\Debug\12MaxSequenceOfEqualElements.pdb

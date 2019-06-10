@@ -1,0 +1,7 @@
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\13HornetWings\bin\Debug\13HornetWings.exe.config
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\13HornetWings\bin\Debug\13HornetWings.exe
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\13HornetWings\bin\Debug\13HornetWings.pdb
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\13HornetWings\obj\Debug\13HornetWings.csprojAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\13HornetWings\obj\Debug\13HornetWings.csproj.CoreCompileInputs.cache
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\13HornetWings\obj\Debug\13HornetWings.exe
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\13HornetWings\obj\Debug\13HornetWings.pdb

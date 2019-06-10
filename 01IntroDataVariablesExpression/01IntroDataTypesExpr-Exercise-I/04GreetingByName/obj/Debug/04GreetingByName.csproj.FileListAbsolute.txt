@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\04GreetingByName\bin\Debug\04GreetingByName.exe.config
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\04GreetingByName\bin\Debug\04GreetingByName.exe
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\04GreetingByName\bin\Debug\04GreetingByName.pdb
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\04GreetingByName\obj\Debug\04GreetingByName.csproj.CoreCompileInputs.cache
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\04GreetingByName\obj\Debug\04GreetingByName.exe
+C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\04GreetingByName\obj\Debug\04GreetingByName.pdb

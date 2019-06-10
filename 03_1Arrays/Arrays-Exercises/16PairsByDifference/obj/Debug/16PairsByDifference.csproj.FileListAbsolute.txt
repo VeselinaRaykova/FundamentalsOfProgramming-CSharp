@@ -1,0 +1,1 @@
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\16PairsByDifference\bin\Debug\16PairsByDifference.exe.config

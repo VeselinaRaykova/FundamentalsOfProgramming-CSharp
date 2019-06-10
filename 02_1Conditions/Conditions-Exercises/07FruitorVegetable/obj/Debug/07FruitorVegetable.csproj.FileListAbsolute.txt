@@ -1,0 +1,5 @@
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\07FruitorVegetable\bin\Debug\07FruitorVegetable.exe.config
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\07FruitorVegetable\bin\Debug\07FruitorVegetable.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\07FruitorVegetable\bin\Debug\07FruitorVegetable.pdb
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\07FruitorVegetable\obj\Debug\07FruitorVegetable.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\07FruitorVegetable\obj\Debug\07FruitorVegetable.pdb

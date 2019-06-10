@@ -1,0 +1,5 @@
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\03TripleSum\bin\Debug\03TripleSum.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\03TripleSum\bin\Debug\03TripleSum.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\03TripleSum\bin\Debug\03TripleSum.pdb
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\03TripleSum\obj\Debug\03TripleSum.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\03TripleSum\obj\Debug\03TripleSum.pdb

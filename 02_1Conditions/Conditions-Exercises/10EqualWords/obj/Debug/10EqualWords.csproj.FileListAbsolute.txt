@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\10EqualWords\bin\Debug\10EqualWords.exe.config
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\10EqualWords\bin\Debug\10EqualWords.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\10EqualWords\bin\Debug\10EqualWords.pdb
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\10EqualWords\obj\Debug\10EqualWords.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\10EqualWords\obj\Debug\10EqualWords.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\10EqualWords\obj\Debug\10EqualWords.pdb

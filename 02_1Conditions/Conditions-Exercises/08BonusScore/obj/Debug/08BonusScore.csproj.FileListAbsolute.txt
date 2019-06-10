@@ -1,0 +1,5 @@
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\08BonusScore\bin\Debug\08BonusScore.exe.config
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\08BonusScore\bin\Debug\08BonusScore.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\08BonusScore\bin\Debug\08BonusScore.pdb
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\08BonusScore\obj\Debug\08BonusScore.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\08BonusScore\obj\Debug\08BonusScore.pdb

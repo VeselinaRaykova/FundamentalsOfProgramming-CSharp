@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\21SumNumbers\bin\Debug\21SumNumbers.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\21SumNumbers\bin\Debug\21SumNumbers.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\21SumNumbers\bin\Debug\21SumNumbers.pdb
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\21SumNumbers\obj\Debug\21SumNumbers.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\21SumNumbers\obj\Debug\21SumNumbers.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\21SumNumbers\obj\Debug\21SumNumbers.pdb

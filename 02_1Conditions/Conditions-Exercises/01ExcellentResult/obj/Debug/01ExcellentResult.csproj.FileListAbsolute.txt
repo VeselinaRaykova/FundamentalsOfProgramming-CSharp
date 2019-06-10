@@ -1,0 +1,10 @@
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\01ExcellentResult\bin\Debug\01ExcellentResult.exe.config
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\01ExcellentResult\bin\Debug\01ExcellentResult.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\01ExcellentResult\bin\Debug\01ExcellentResult.pdb
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\01ExcellentResult\obj\Debug\01ExcellentResult.csprojAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\01ExcellentResult\obj\Debug\01ExcellentResult.csproj.CoreCompileInputs.cache
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\01ExcellentResult\obj\Debug\01ExcellentResult.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\01ExcellentResult\obj\Debug\01ExcellentResult.pdb
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\01ExcellentResult\bin\Debug\01ExcellentResult.exe.config
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\01ExcellentResult\obj\Debug\01ExcellentResult.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\01ExcellentResult\obj\Debug\01ExcellentResult.pdb

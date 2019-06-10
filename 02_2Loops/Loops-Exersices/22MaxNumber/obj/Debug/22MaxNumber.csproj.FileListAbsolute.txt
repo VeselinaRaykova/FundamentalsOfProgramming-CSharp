@@ -1,0 +1,5 @@
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\22MaxNumber\bin\Debug\22MaxNumber.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\22MaxNumber\bin\Debug\22MaxNumber.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\22MaxNumber\bin\Debug\22MaxNumber.pdb
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\22MaxNumber\obj\Debug\22MaxNumber.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\22MaxNumber\obj\Debug\22MaxNumber.pdb

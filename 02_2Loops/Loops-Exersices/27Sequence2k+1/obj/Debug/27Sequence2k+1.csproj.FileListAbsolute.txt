@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\27Sequence2k+1\bin\Debug\27Sequence2k+1.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\27Sequence2k+1\bin\Debug\27Sequence2k+1.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\27Sequence2k+1\bin\Debug\27Sequence2k+1.pdb
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\27Sequence2k+1\obj\Debug\27Sequence2k+1.exe
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\27Sequence2k+1\obj\Debug\27Sequence2k+1.pdb
+C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\27Sequence2k+1\obj\Debug\27Sequence2k+1.csprojResolveAssemblyReference.cache

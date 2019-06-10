@@ -1,0 +1,5 @@
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\05SmallShop\bin\Debug\05SmallShop.exe.config
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\05SmallShop\bin\Debug\05SmallShop.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\05SmallShop\bin\Debug\05SmallShop.pdb
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\05SmallShop\obj\Debug\05SmallShop.exe
+C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\05SmallShop\obj\Debug\05SmallShop.pdb

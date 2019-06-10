@@ -1,0 +1,6 @@
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\10FoldAndSum\bin\Debug\10FoldAndSum.exe.config
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\10FoldAndSum\bin\Debug\10FoldAndSum.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\10FoldAndSum\bin\Debug\10FoldAndSum.pdb
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\10FoldAndSum\obj\Debug\10FoldAndSum.csprojResolveAssemblyReference.cache
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\10FoldAndSum\obj\Debug\10FoldAndSum.exe
+C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\10FoldAndSum\obj\Debug\10FoldAndSum.pdb
