@@ -1,1 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\19NumbersFrom0to100\bin\Debug\19NumbersFrom0to100.exe.config

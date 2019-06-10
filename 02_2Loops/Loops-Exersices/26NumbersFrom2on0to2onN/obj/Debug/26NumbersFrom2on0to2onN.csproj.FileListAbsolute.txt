@@ -1,5 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\26NumbersFrom2on0to2onN\bin\Debug\26NumbersFrom2on0to2onN.exe.config
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\26NumbersFrom2on0to2onN\bin\Debug\26NumbersFrom2on0to2onN.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\26NumbersFrom2on0to2onN\bin\Debug\26NumbersFrom2on0to2onN.pdb
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\26NumbersFrom2on0to2onN\obj\Debug\26NumbersFrom2on0to2onN.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\26NumbersFrom2on0to2onN\obj\Debug\26NumbersFrom2on0to2onN.pdb

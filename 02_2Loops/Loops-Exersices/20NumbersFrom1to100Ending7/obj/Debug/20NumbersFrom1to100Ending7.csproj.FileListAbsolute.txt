@@ -1,6 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\20NumbersFrom1to100Ending7\bin\Debug\19NumbersFrom1to100.exe.config
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\20NumbersFrom1to100Ending7\bin\Debug\19NumbersFrom1to100.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\20NumbersFrom1to100Ending7\bin\Debug\19NumbersFrom1to100.pdb
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\20NumbersFrom1to100Ending7\obj\Debug\20NumbersFrom1to100Ending7.csprojResolveAssemblyReference.cache
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\20NumbersFrom1to100Ending7\obj\Debug\19NumbersFrom1to100.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\20NumbersFrom1to100Ending7\obj\Debug\19NumbersFrom1to100.pdb

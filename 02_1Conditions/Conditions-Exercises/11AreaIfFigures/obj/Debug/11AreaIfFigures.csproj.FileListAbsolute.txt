@@ -1,5 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\11AreaIfFigures\bin\Debug\11AreaIfFigures.exe.config
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\11AreaIfFigures\bin\Debug\11AreaIfFigures.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\11AreaIfFigures\bin\Debug\11AreaIfFigures.pdb
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\11AreaIfFigures\obj\Debug\11AreaIfFigures.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\11AreaIfFigures\obj\Debug\11AreaIfFigures.pdb

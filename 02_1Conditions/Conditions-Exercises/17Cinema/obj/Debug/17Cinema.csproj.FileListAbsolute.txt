@@ -1,5 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\17Cinema\bin\Debug\17Cinema.exe.config
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\17Cinema\bin\Debug\17Cinema.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\17Cinema\bin\Debug\17Cinema.pdb
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\17Cinema\obj\Debug\17Cinema.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\17Cinema\obj\Debug\17Cinema.pdb

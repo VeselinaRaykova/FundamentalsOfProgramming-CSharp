@@ -1,6 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\34CheckPrimeNumber\bin\Debug\34CheckPrimeNumber.exe.config
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\34CheckPrimeNumber\bin\Debug\34CheckPrimeNumber.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\34CheckPrimeNumber\bin\Debug\34CheckPrimeNumber.pdb
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\34CheckPrimeNumber\obj\Debug\34CheckPrimeNumber.csprojResolveAssemblyReference.cache
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\34CheckPrimeNumber\obj\Debug\34CheckPrimeNumber.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\34CheckPrimeNumber\obj\Debug\34CheckPrimeNumber.pdb

@@ -1,7 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\10IntegerTypes\bin\Debug\10IntegerTypes.exe.config
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\10IntegerTypes\bin\Debug\10IntegerTypes.exe
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\10IntegerTypes\bin\Debug\10IntegerTypes.pdb
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\10IntegerTypes\obj\Debug\10IntegerTypes.csprojAssemblyReference.cache
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\10IntegerTypes\obj\Debug\10IntegerTypes.csproj.CoreCompileInputs.cache
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\10IntegerTypes\obj\Debug\10IntegerTypes.exe
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\02IntroDataTypesExpr-Exercise-II\10IntegerTypes\obj\Debug\10IntegerTypes.pdb

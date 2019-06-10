@@ -1,7 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\09TriangleArea\bin\Debug\09TriangleArea.exe.config
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\09TriangleArea\bin\Debug\09TriangleArea.exe
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\09TriangleArea\bin\Debug\09TriangleArea.pdb
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\09TriangleArea\obj\Debug\09TriangleArea.csprojAssemblyReference.cache
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\09TriangleArea\obj\Debug\09TriangleArea.csproj.CoreCompileInputs.cache
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\09TriangleArea\obj\Debug\09TriangleArea.exe
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\09TriangleArea\obj\Debug\09TriangleArea.pdb

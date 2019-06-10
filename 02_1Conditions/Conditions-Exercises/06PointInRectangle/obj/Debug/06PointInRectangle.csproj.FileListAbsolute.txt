@@ -1,5 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\06PointInRectangle\bin\Debug\06PointInRectangle.exe.config
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\06PointInRectangle\bin\Debug\06PointInRectangle.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\06PointInRectangle\bin\Debug\06PointInRectangle.pdb
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\06PointInRectangle\obj\Debug\06PointInRectangle.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\06PointInRectangle\obj\Debug\06PointInRectangle.pdb

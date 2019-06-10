@@ -1,6 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\31MinNumber\bin\Debug\31MinNumber.exe.config
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\31MinNumber\bin\Debug\31MinNumber.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\31MinNumber\bin\Debug\31MinNumber.pdb
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\31MinNumber\obj\Debug\31MinNumber.csprojResolveAssemblyReference.cache
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\31MinNumber\obj\Debug\31MinNumber.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\31MinNumber\obj\Debug\31MinNumber.pdb

@@ -1,1 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\13PersonalTitles\bin\Debug\13PersonalTitles.exe.config

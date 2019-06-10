@@ -1,6 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\36NumberTable\bin\Debug\36NumberTable.exe.config
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\36NumberTable\bin\Debug\36NumberTable.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\36NumberTable\bin\Debug\36NumberTable.pdb
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\36NumberTable\obj\Debug\36NumberTable.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\36NumberTable\obj\Debug\36NumberTable.pdb
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\36NumberTable\obj\Debug\36NumberTable.csprojResolveAssemblyReference.cache

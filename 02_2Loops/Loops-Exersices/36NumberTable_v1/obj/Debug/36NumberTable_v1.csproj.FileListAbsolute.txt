@@ -1,5 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\36NumberTable_v1\bin\Debug\36NumberTable_v1.exe.config
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\36NumberTable_v1\bin\Debug\36NumberTable_v1.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\36NumberTable_v1\bin\Debug\36NumberTable_v1.pdb
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\36NumberTable_v1\obj\Debug\36NumberTable_v1.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\36NumberTable_v1\obj\Debug\36NumberTable_v1.pdb

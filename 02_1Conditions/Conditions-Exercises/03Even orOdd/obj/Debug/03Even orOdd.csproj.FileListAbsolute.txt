@@ -1,6 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\03Even orOdd\bin\Debug\03Even orOdd.exe.config
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\03Even orOdd\bin\Debug\03Even orOdd.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\03Even orOdd\bin\Debug\03Even orOdd.pdb
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\03Even orOdd\obj\Debug\03Even orOdd.csproj.CoreCompileInputs.cache
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\03Even orOdd\obj\Debug\03Even orOdd.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\03Even orOdd\obj\Debug\03Even orOdd.pdb

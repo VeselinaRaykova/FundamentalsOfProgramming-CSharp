@@ -1,6 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\02ReverseAnArrayOfIntegers\bin\Debug\02ReverseAnArrayOfIntegers.exe.config
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\02ReverseAnArrayOfIntegers\bin\Debug\02ReverseAnArrayOfIntegers.exe
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\02ReverseAnArrayOfIntegers\bin\Debug\02ReverseAnArrayOfIntegers.pdb
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\02ReverseAnArrayOfIntegers\obj\Debug\02ReverseAnArrayOfIntegers.csprojResolveAssemblyReference.cache
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\02ReverseAnArrayOfIntegers\obj\Debug\02ReverseAnArrayOfIntegers.exe
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\02ReverseAnArrayOfIntegers\obj\Debug\02ReverseAnArrayOfIntegers.pdb

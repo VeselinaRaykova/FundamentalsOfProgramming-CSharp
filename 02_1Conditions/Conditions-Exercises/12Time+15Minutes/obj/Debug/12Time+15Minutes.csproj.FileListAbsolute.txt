@@ -1,6 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\12Time+15Minutes\bin\Debug\12Time+15Minutes.exe.config
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\12Time+15Minutes\bin\Debug\12Time+15Minutes.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\12Time+15Minutes\bin\Debug\12Time+15Minutes.pdb
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\12Time+15Minutes\obj\Debug\12Time+15Minutes.csprojResolveAssemblyReference.cache
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\12Time+15Minutes\obj\Debug\12Time+15Minutes.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\12Time+15Minutes\obj\Debug\12Time+15Minutes.pdb

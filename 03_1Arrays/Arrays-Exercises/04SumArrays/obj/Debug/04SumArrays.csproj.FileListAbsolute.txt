@@ -1,5 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\04SumArrays\bin\Debug\04SumArrays.exe.config
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\04SumArrays\bin\Debug\04SumArrays.exe
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\04SumArrays\bin\Debug\04SumArrays.pdb
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\04SumArrays\obj\Debug\04SumArrays.exe
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\04SumArrays\obj\Debug\04SumArrays.pdb

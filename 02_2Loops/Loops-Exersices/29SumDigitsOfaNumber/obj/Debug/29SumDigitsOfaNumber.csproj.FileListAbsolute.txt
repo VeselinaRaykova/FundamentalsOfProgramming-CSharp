@@ -1,6 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\29SumDigitsOfaNumber\bin\Debug\29SumDigitsOfaNumber.exe.config
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\29SumDigitsOfaNumber\bin\Debug\29SumDigitsOfaNumber.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\29SumDigitsOfaNumber\bin\Debug\29SumDigitsOfaNumber.pdb
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\29SumDigitsOfaNumber\obj\Debug\29SumDigitsOfaNumber.csprojResolveAssemblyReference.cache
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\29SumDigitsOfaNumber\obj\Debug\29SumDigitsOfaNumber.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\29SumDigitsOfaNumber\obj\Debug\29SumDigitsOfaNumber.pdb

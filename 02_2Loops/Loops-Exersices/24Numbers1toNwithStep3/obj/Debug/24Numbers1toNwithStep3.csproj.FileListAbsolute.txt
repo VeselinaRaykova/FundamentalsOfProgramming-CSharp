@@ -1,5 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\24Numbers1toNwithStep3\bin\Debug\24Numbers1toNwithStep3.exe.config
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\24Numbers1toNwithStep3\bin\Debug\24Numbers1toNwithStep3.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\24Numbers1toNwithStep3\bin\Debug\24Numbers1toNwithStep3.pdb
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\24Numbers1toNwithStep3\obj\Debug\24Numbers1toNwithStep3.exe
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\24Numbers1toNwithStep3\obj\Debug\24Numbers1toNwithStep3.pdb

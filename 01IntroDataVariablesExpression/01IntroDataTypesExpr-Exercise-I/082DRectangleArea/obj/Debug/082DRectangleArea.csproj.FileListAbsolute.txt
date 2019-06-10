@@ -1,6 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\082DRectangleArea\bin\Debug\082DRectangleArea.exe.config
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\082DRectangleArea\bin\Debug\082DRectangleArea.exe
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\082DRectangleArea\bin\Debug\082DRectangleArea.pdb
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\082DRectangleArea\obj\Debug\082DRectangleArea.csproj.CoreCompileInputs.cache
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\082DRectangleArea\obj\Debug\082DRectangleArea.exe
-C:\_SoftUni\Fundamentals-CSharp\01IntroDataVariablesExpression\01IntroDataTypesExpr-Exercise-I\082DRectangleArea\obj\Debug\082DRectangleArea.pdb

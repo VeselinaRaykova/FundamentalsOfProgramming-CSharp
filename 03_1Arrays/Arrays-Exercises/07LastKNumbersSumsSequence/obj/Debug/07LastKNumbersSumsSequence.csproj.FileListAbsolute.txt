@@ -1,6 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\07LastKNumbersSumsSequence\bin\Debug\07LastKNumbersSumsSequence.exe.config
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\07LastKNumbersSumsSequence\obj\Debug\07LastKNumbersSumsSequence.csprojResolveAssemblyReference.cache
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\07LastKNumbersSumsSequence\bin\Debug\07LastKNumbersSumsSequence.exe
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\07LastKNumbersSumsSequence\bin\Debug\07LastKNumbersSumsSequence.pdb
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\07LastKNumbersSumsSequence\obj\Debug\07LastKNumbersSumsSequence.exe
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\07LastKNumbersSumsSequence\obj\Debug\07LastKNumbersSumsSequence.pdb

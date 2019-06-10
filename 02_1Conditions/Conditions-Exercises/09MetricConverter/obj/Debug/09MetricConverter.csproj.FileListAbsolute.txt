@@ -1,6 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\09MetricConverter\bin\Debug\09MetricConverter.exe.config
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\09MetricConverter\bin\Debug\09MetricConverter.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\09MetricConverter\bin\Debug\09MetricConverter.pdb
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\09MetricConverter\obj\Debug\09MetricConverter.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\09MetricConverter\obj\Debug\09MetricConverter.pdb
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\09MetricConverter\obj\Debug\09MetricConverter.csprojResolveAssemblyReference.cache

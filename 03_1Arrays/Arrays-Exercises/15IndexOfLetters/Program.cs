@@ -33,12 +33,6 @@ namespace _15IndexOfLetters
                     }
                 }
             }
-
-
-
-
-
-            Console.WriteLine(alphabet);
         }
     }
 }

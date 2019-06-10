@@ -1,1 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03Loops\Loops-Exersices\30LatinLetters\bin\Debug\30LatinLetters.exe.config

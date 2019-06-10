@@ -1,6 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\02ExcellentorNot\bin\Debug\02ExcellentorNot.exe.config
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\02ExcellentorNot\bin\Debug\02ExcellentorNot.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\02ExcellentorNot\bin\Debug\02ExcellentorNot.pdb
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\02ExcellentorNot\obj\Debug\02ExcellentorNot.csproj.CoreCompileInputs.cache
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\02ExcellentorNot\obj\Debug\02ExcellentorNot.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\02ExcellentorNot\obj\Debug\02ExcellentorNot.pdb

@@ -1,5 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\16TradeComissions\bin\Debug\16TradeComissions.exe.config
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\16TradeComissions\bin\Debug\16TradeComissions.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\16TradeComissions\bin\Debug\16TradeComissions.pdb
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\16TradeComissions\obj\Debug\16TradeComissions.exe
-C:\_SoftUni\Fundamentals-CSharp\02Conditions\Conditions-Exercises\16TradeComissions\obj\Debug\16TradeComissions.pdb

@@ -1,6 +1,0 @@
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\08LargestCommonEnd\bin\Debug\08LargestCommonEnd.exe.config
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\08LargestCommonEnd\bin\Debug\08LargestCommonEnd.exe
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\08LargestCommonEnd\bin\Debug\08LargestCommonEnd.pdb
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\08LargestCommonEnd\obj\Debug\08LargestCommonEnd.csprojResolveAssemblyReference.cache
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\08LargestCommonEnd\obj\Debug\08LargestCommonEnd.exe
-C:\_SoftUni\Fundamentals-CSharp\03_1Arrays\Arrays-Exercises\08LargestCommonEnd\obj\Debug\08LargestCommonEnd.pdb
