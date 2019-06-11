@@ -10,6 +10,7 @@ namespace _16PairsByDifference
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
