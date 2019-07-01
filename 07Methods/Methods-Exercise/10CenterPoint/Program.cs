@@ -15,7 +15,12 @@ namespace _10CenterPoint
             double secondDistance = GetDistanceToZero(x2, y2);
 
             PrintCloserPoint(firstDistance, secondDistance, x1, y1, x2, y2);
+        }
 
+        static double GetDistanceToZero(double x, double y)
+        {
+            double distance = Math.Sqrt(x * x + y * y);
+            return distance;
         }
 
         private static void PrintCloserPoint(double firstDistance, double secondDistance, double x1, double y1, double x2, double y2)
@@ -30,10 +35,5 @@ namespace _10CenterPoint
             }
         }
 
-        static double GetDistanceToZero(double x, double y)
-        {
-            double distance = Math.Sqrt(x * x + y * y);
-            return distance;
-        }
     }
 }
