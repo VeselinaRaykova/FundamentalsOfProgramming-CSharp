@@ -17,12 +17,6 @@ namespace _13MaxSequenceOfIncreasingElements
 
             for (int i = 1; i < numbers.Length; i++)
             {
-                if (numbers[i] <= numbers[i - 1])
-                {
-                    counter = 1;
-                    continue;
-
-                }
                 if (numbers[i] > numbers[i - 1])
                 {
                     counter++;
@@ -30,8 +24,12 @@ namespace _13MaxSequenceOfIncreasingElements
                     if (maxCount < counter)
                     {
                         maxCount = counter;
-                        startPos = i  - maxCount + 1;
+                        startPos = i - maxCount + 1;
                     }
+                }
+                else //(numbers[i] <= numbers[i - 1])
+                {
+                    counter = 1;
                 }
             }
 

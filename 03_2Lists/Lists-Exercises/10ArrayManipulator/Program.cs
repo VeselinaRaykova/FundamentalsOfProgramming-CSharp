@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _10ArrayManipulator
 {
@@ -39,14 +37,14 @@ namespace _10ArrayManipulator
                 else if (command == "contains")
                 {
                     int element = int.Parse(commandArgs[1]);
-                    if (numbers.Contains(element))
-                    {
+                    //if (numbers.Contains(element))
+                    //{
                         Console.WriteLine(numbers.IndexOf(element));
-                    }
-                    else
-                    {
-                        Console.WriteLine(-1);
-                    }
+                    //}
+                    //else
+                    //{
+                    //    Console.WriteLine(-1);
+                    //}
                 }
                 else if (command == "remove")
                 {
@@ -58,7 +56,6 @@ namespace _10ArrayManipulator
                 }
                 else if (command == "shift")
                 {
-                    List<int> temp = new List<int>();
                     int shiftIndex = int.Parse(commandArgs[1]);
                     while (shiftIndex > 0)
                     {
@@ -70,16 +67,16 @@ namespace _10ArrayManipulator
                 }
                 else if (command == "sumPairs")
                 {
-                    List<int> temp = new List<int>();
+                    List<int> summedNumbers = new List<int>();
                     if (numbers.Count % 2 != 0)
                     {
                         numbers.Add(0);
                     }
                     for (int i = 0; i < numbers.Count - 1; i += 2)
                     {
-                        temp.Add(numbers[i] + numbers[i + 1]);
+                        summedNumbers.Add(numbers[i] + numbers[i + 1]);
                     }
-                    numbers = temp;
+                    numbers = summedNumbers;
                 }
             }
 

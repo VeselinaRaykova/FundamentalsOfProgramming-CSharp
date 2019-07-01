@@ -18,6 +18,7 @@ namespace _09BombNumbers
                 .Split()
                 .Select(int.Parse)
                 .ToArray();
+
             int bomb = arr[0];
             int bombPower = arr[1];
 

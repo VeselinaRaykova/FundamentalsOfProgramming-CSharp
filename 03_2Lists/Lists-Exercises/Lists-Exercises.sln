@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09BombNumbers", "09BombNumb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10ArrayManipulator", "10ArrayManipulator\10ArrayManipulator.csproj", "{E8ED7070-BF12-4B07-AF1F-108DC0D96053}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09BombNumbers_v2", "09BombNumbers_v2\09BombNumbers_v2.csproj", "{BE5B2144-28BF-4274-8CB1-D8FB8E7A846A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{E8ED7070-BF12-4B07-AF1F-108DC0D96053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8ED7070-BF12-4B07-AF1F-108DC0D96053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8ED7070-BF12-4B07-AF1F-108DC0D96053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5B2144-28BF-4274-8CB1-D8FB8E7A846A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5B2144-28BF-4274-8CB1-D8FB8E7A846A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5B2144-28BF-4274-8CB1-D8FB8E7A846A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5B2144-28BF-4274-8CB1-D8FB8E7A846A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
