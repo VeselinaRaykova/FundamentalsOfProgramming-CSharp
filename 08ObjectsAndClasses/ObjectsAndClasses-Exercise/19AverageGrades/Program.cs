@@ -37,9 +37,11 @@ namespace _19AverageGrades
 
     public class Student
     {
+        private string name;
         public string Name { get; set; }
         public List<double> Grades { get; set; }
         public double AverageGrade { get; }
+
         public Student(string Name, List<double> Grades)
         {
             this.Name = Name;
